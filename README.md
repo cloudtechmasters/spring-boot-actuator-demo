@@ -1,16 +1,13 @@
 # Spring Boot Actuator: Health Check, Auditing, Metrics Gathering and Monitoring 
 
-## Tutorials 
 
-1. [Spring Boot Actuator: Health check, Auditing, Metrics gathering and Monitoring](https://www.callicoder.com/spring-boot-actuator/)
-2. [Spring Boot Actuator metrics monitoring with Prometheus and Grafana](https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/)
 
 ## Steps to Setup
 
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-actuator-demo.git
+git clone https://github.com/cloudtechmasters/spring-boot-actuator-demo.git
 ```
 
 **2. Build and run the app using maven**
